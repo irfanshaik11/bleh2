@@ -1,5 +1,5 @@
 {
-  "name": "Docs",
+  "name": "interstate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,7 +15,6 @@
   },
   "devDependencies": {
     "@types/react": "latest",
-    "prettier": "^3.5.3",
     "typescript": "latest"
   }
 }

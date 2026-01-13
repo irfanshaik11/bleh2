@@ -1,0 +1,6 @@
+# Docs
+
+## Docs
+
+- [Example](/privacy-policy): This is an example page.
+- [Terms of Service](/terms-of-service): Plese see our terms of service here:
